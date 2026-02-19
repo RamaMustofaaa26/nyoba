@@ -39,7 +39,7 @@ Ext.define("TDK.mainpage", {
             { 
               text: "posting", 
               handler: "onNewInput",  // ← Handler untuk buka FROMpo
-              icon: vconfig.getstyle + "/icon/add.png"
+              icon: vconfig.getstyle + "/icon/lock.png"
             },
           ]
         }
